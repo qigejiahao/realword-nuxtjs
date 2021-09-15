@@ -1,5 +1,5 @@
 /**
- *  Nuxt.js配置123文件 
+ *  Nuxt.js配置456文件 
  */
 
 module.exports={
